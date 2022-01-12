@@ -30,7 +30,7 @@ h3 {
     border-style: solid;
     border-radius: 50%;
     border-width: 10px;
-    border-color: rgb(95, 158, 160);
+    border-color: rgb(236, 233, 233);
 }
 
 .contact {
@@ -40,19 +40,14 @@ h3 {
 
 .skills {
     text-align: center;
-    background-color: rgb(95, 158, 160);
     width: 30%;
     display: inline-block;
 }
 
 .work-exp {
     padding-left: 50px;
-    background-color: rgb(95, 158, 160);
     display: inline-block;
-<<<<<<< HEAD
-    width: 64%;
-=======
-    width: 65%;
+    width: 63%;
 }
 
 .facebook,
@@ -60,10 +55,4 @@ h3 {
     text-align: center;
     display: inline-block;
     width: 49%;
-    background-color: rgb(95, 158, 160);
-
-}
-a {
-
->>>>>>> footer
 }

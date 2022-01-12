@@ -1,0 +1,39 @@
+.header,
+.main,
+.footer {
+    background-color: antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.name {
+    color: rgb(236, 233, 233);
+    background-color: rgb(95, 158, 160);
+    text-align: center;
+}
+
+.info {
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+}
+.picture {
+    width: 49%;
+    display: inline-block;
+}
+
+.foto {
+    width: 250px;
+    object-fit: fill;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 10px;
+    border-color: rgb(95, 158, 160);
+}
+
+.contact {
+    display: inline-block;
+    width: 49%;
+}

@@ -36,4 +36,21 @@ h3 {
 .contact {
     display: inline-block;
     width: 49%;
+<<<<<<< HEAD
+=======
+}
+
+.skills {
+    text-align: center;
+    background-color: rgb(95, 158, 160);
+    width: 30%;
+    display: inline-block;
+}
+
+.work-exp {
+    padding-left: 50px;
+    background-color: rgb(95, 158, 160);
+    display: inline-block;
+    width: 65%;
+>>>>>>> main
 }
